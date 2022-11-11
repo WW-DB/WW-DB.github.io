@@ -1,1 +1,1 @@
-WW-DB
+A database for Wuthering Waves
