@@ -1,8 +1,8 @@
 body{
-    background-color: #000000;
+    background-color: #0f172ae6;
     font-family: arial;
     color:white;
-    background-image: url(/assets/bg.jpg);
+    /*background-image: url(/assets/bg.jpg);*/
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
